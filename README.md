@@ -7,18 +7,18 @@
 * [Google Directions API Key](https://cloud.google.com/maps-platform/?apis=routes) 
 
 ### Installing
-Clone this repository 
+Clone this repository.
 ```
 git clone https://github.com/japper83/Google-Traffic-time-logging.git
 cd Google-Traffic-time-logging
 ```
 
-Install the google maps module
+Install the google maps module.
 ```
 pip3 install googlemaps
 ```
 
-Change the Google Maps API value
+Change the Google Maps API value in the google_maps_traffic.py file.
 ```
 token = 'EbYhtflimzMpWEiNNRcfKbJubwpyNQwOXgQGZBA'
 ```
@@ -33,6 +33,7 @@ You can use coordinates by placing the startpoint and endpoint between quotes.
 ```
 python3 google_maps_traffic.py '52.358727, 4.891133' '52.089422, 5.114595' logfile.csv
 ```
+Example result:
 
-
+![alt text](https://github.com/japper83/Google-Traffic-time-logging/blob/master/result.PNG)
 
