@@ -37,3 +37,12 @@ Example result:
 
 ![alt text](https://github.com/japper83/Google-Traffic-time-logging/blob/master/result.PNG)
 
+
+
+## Update
+google_maps_traffic_2.0.py is the improved version with better CSV formatting.
+The csv_import.txt is an excel macro that can be used to combine multiple CSV files. 
+
+
+
+
