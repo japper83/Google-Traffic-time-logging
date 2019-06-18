@@ -42,7 +42,7 @@ Example result:
 ## Update
 google_maps_traffic_2.0.py is the improved version with better CSV formatting.
 The csv_import.txt is an excel macro that can be used to combine multiple CSV files. 
-
+In Excel press alt+f11, insert module. Click the play button.
 
 
 
